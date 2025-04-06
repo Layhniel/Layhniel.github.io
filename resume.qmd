@@ -2,87 +2,76 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bryson Laney
+Software Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Bryson.John.Laney@gmail.com">bryson.john.laney@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working on my college degree
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Python, Software Development, databases, Tableau, MYSQL 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+developing apps and/or games, 3d modeling
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004 - 2016`
+__Cobb School, Roseburg, Oregon__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016 - 2018`
+__Camas Valley Charter School, Camas Valley__
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2018 - 2022`
+__Roseburg High School, Roseburg, Oregon__
 
-- Fellow
+`2022 - Now`
+__Brigham Young University - Idaho, Idaho__
+
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+Eagle Scout, Boy Scouts of America.
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2022`
+__KFC & LJS__, Roseburg, Oregon
 
-- Warden
-- Minted coins
+-Line Cook
+-Cashier
+-Supervisor
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2023`
+__Little Ceaserz__. Idaho Falls, Idaho
 
+-Pizza Cook
 
+`2023`
+__PeakIT__, Roseburg, Oregon
+
+-video-editer
+-IT assistant
+
+`2024`
+__UPS__, Rexburg. Idaho
+
+-Pre-Loader
 
 <!-- ### Footer
 
